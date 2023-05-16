@@ -1,7 +1,3 @@
-/copy-s2.png
-/output.pdf
-/s1.png
-/s2.png
-/s3.png
-/s4.png
-/test.py
+/.vscode
+/chromedriver_win32
+/__pycache__
