@@ -10,13 +10,13 @@ Host the Teams meet on an alternate browser created with Selenium (requires chro
 The record function only records when inside the teams meet and feeds the class which consumes images.
 Allows the user to save the file to a user-selected destination as one of the two options mentioned above.
 
-1. User types in address or defaults to Google.ca
+1. User types in address or defaults to Google.ca <br />
 ![image](https://github.com/M4TTH3/TeamsAutonote/assets/61128748/3e5dbc60-d25d-48d3-a69c-cedc10035273)
 
-2. Hit record and/or stop whenever.
+2. Hit record and/or stop whenever. <br />
 ![image](https://github.com/M4TTH3/TeamsAutonote/assets/61128748/c35bf16e-8709-4f26-a5e3-c283ee91b97e)
 
-3. Save the file (Prompts file explorer)
+3. Save the file (Prompts file explorer) <br />
 ![image](https://github.com/M4TTH3/TeamsAutonote/assets/61128748/8b44857e-1262-4238-9bca-43417094a55c)
 
 
